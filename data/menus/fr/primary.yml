@@ -29,6 +29,10 @@ items:
   target: "/donnees-scientifiques/"
   kind: page
   children: []
+- title: Paysages
+  target: "/paysages/"
+  kind: page
+  children: []
 - title: Témoignages
   target: "/temoignages/"
   kind: page

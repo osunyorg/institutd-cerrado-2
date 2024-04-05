@@ -25,6 +25,10 @@ items:
   target: "/accueil/"
   kind: page
   children: []
+- title: Données scientifiques
+  target: "/donnees-scientifiques/"
+  kind: page
+  children: []
 - title: Témoignages
   target: "/temoignages/"
   kind: page

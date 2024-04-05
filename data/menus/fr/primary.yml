@@ -41,4 +41,8 @@ items:
   target: "/cartes-postales-sonores/"
   kind: page
   children: []
+- title: cordel
+  target: "/cordel/"
+  kind: page
+  children: []
 

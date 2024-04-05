@@ -25,7 +25,7 @@ items:
   target: "/cartes-postales-sonores/"
   kind: page
   children: []
-- title: cordel
+- title: Cordéis
   target: "/cordel/"
   kind: page
   children: []

@@ -21,6 +21,10 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: Machines
+  target: "/accueil/"
+  kind: page
+  children: []
 - title: Témoignages
   target: "/temoignages/"
   kind: page

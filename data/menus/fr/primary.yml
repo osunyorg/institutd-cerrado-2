@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Machines
-  target: "/accueil/"
+  target: "/machines/"
   kind: page
   children: []
 - title: Données scientifiques

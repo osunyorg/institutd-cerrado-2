@@ -25,4 +25,8 @@ items:
   target: "/cordel/"
   kind: page
   children: []
+- title: Aide
+  target: "/aide/"
+  kind: page
+  children: []
 

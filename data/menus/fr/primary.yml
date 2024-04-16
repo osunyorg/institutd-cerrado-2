@@ -22,7 +22,7 @@ items:
   kind: page
   children: []
 - title: Cordéis
-  target: "/cordel/"
+  target: "/cordeis/"
   kind: page
   children: []
 - title: Aide

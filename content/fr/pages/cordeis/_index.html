@@ -109,20 +109,24 @@ contents:
   - kind: block
     template: pages
     title: >-
-      O animal que precisava comer banana para não querer comer os correntinos
+      Cordéis
     ranks:
       self: 3
       children: 4
     data:
       page: 
-        path: "/cordeis/cordeis-1/"
-        slug: "cordeis-1"
-        file: "pages/cordeis/cordeis-1/_index.html"
+        path: "/cordeis/"
+        slug: "cordeis"
+        file: "pages/cordeis/_index.html"
       show_main_description: false
       show_descriptions: false
-      show_images: false
-      layout: grid
+      show_images: true
+      layout: large
       pages:
+        - path: "/cordeis/cordeis-1/"
+          slug: "cordeis-1"
+          file: "pages/cordeis/cordeis-1/_index.html"
+          external: false
         - path: "/cordeis/cordeis-2/"
           slug: "cordeis-2"
           file: "pages/cordeis/cordeis-2/_index.html"

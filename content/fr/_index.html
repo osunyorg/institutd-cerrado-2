@@ -53,21 +53,6 @@ contents_reading_time:
     moins d'une minute
 contents:
   - kind: block
-    template: embed
-    title: >-
-      
-    ranks:
-      self: false
-    data:
-      code: >-
-        <hr>
-
-      transcription: >-
-        
-
-
-
-  - kind: block
     template: gallery
     title: >-
       
@@ -130,17 +115,26 @@ contents:
 
 
   - kind: block
-    template: posts
+    template: pages
     title: >-
-      
+      Cordéis
     ranks:
-      self: false
-      children: 2
+      self: 2
+      children: 3
     data:
-      mode: selection
+      page: 
+        path: "/cordeis/"
+        slug: "cordeis"
+        file: "pages/cordeis/_index.html"
+      show_main_description: false
+      show_descriptions: false
+      show_images: true
       layout: grid
-      posts:
-        - "2024/2024-04-16-maquinas-do-dia-a-dia"
+      pages:
+        - path: "/cordeis/cordeis-2/"
+          slug: "cordeis-2"
+          file: "pages/cordeis/cordeis-2/_index.html"
+          external: false
 
 
 

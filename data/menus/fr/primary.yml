@@ -25,7 +25,7 @@ items:
   target: "/cordeis/"
   kind: page
   children: []
-- title: Aide
+- title: En savoir plus
   target: "/en-savoir-plus/"
   kind: page
   children: []

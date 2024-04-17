@@ -8,6 +8,10 @@ fr:
   languageName: Français
   params:
     social:
+      youtube: >-
+        https://www.youtube.com/@Maquinasdodiaadia-ro8us/videos
+      facebook: >-
+        facebook.com/profile.php?id=100091819664493
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     events: /agenda/:year-:month-:day-:slug/

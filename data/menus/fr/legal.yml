@@ -21,8 +21,4 @@ items:
   target: "/organisations/"
   kind: page
   children: []
-- title: Organisations partenaires
-  target: "/organisations/"
-  kind: page
-  children: []
 

@@ -8,11 +8,7 @@ items:
 - title: Politique de confidentialité
   target: "/politique-de-confidentialite/"
   kind: page
-  children:
-  - title: Politique de confidentialité
-    target: "/politique-de-confidentialite/"
-    kind: page
-    children: []
+  children: []
 - title: Accessibilité
   target: "/accessibilite/"
   kind: page

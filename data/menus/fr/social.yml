@@ -1,4 +1,8 @@
 ---
 title: Liens sociaux
-items: []
+items:
+- title: Institut D.
+  target: https://institut.design/
+  kind: url
+  children: []
 

@@ -1,32 +1,24 @@
 ---
 title: Informations légales
 items:
-- title: Mentions légales
-  target: "/mentions-legales/"
-  kind: page
-  children:
-  - title: Mentions légales
-    target: "/mentions-legales-1/"
-    kind: page
-    children: []
-- title: Politique de confidentialité
-  target: "/politique-de-confidentialite/"
-  kind: page
-  children:
-  - title: Politique de confidentialité
-    target: "/politique-de-confidentialite-1/"
-    kind: page
-    children: []
-- title: Accessibilité
-  target: "/accessibilite/"
+- title: Organisations partenaires
+  target: "/organisations/"
   kind: page
   children: []
 - title: Plan du site
   target: "/plan-du-site/"
   kind: page
   children: []
-- title: Organisations partenaires
-  target: "/organisations/"
+- title: Mentions légales
+  target: "/mentions-legales-1/"
+  kind: page
+  children: []
+- title: Politique de confidentialité
+  target: "/politique-de-confidentialite-1/"
+  kind: page
+  children: []
+- title: Accessibilité
+  target: "/accessibilite/"
   kind: page
   children: []
 

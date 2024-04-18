@@ -2,7 +2,7 @@
 title: Liens sociaux
 items:
 - title: Institut D.
-  target: https://institut.design/
-  kind: url
+  target: "/organisations/"
+  kind: page
   children: []
 

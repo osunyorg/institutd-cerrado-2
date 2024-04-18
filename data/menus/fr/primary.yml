@@ -28,9 +28,5 @@ items:
 - title: En savoir plus
   target: "/en-savoir-plus/"
   kind: page
-  children:
-  - title: Organisations partenaires
-    target: "/organisations/"
-    kind: page
-    children: []
+  children: []
 

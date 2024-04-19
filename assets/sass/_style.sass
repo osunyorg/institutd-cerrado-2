@@ -78,7 +78,7 @@ header#document-header .logo img
    font-size: 1.2rem
 
 body.full-width .block-call_to_action .call_to_action--without-image > div
-   //display: flex
+   display: flex
 
 body.full-width .heading h2
    width: auto
@@ -98,3 +98,10 @@ body.full-width .block-call_to_action .block-content
 
 figcaption .avatar
    margin-top: 1rem
+
+@media (min-width: 992px)
+   body.full-width .block-chapter .chapter .text
+      width: unset
+
+   body.full-width .block-gallery--large figure figcaption p
+      max-width: unset

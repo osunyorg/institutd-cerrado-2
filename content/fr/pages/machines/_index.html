@@ -72,6 +72,8 @@ contents:
     template: gallery
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -170,6 +172,8 @@ contents:
     template: call_to_action
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -199,6 +203,8 @@ contents:
     template: organizations
     title: >-
       Partagez !
+    slug: >-
+      partagez
     ranks:
       self: 2
     data:
@@ -246,15 +252,23 @@ contents:
           external: true
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Modèles 3D
-    slug: "modeles-3d"
-    position: 1
-    rank: 2
+    slug: >-
+      modeles-3d
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -278,10 +292,12 @@ contents:
   - kind: block
     template: pages
     title: >-
-      Machines
+      
+    slug: >-
+      
     ranks:
-      self: 3
-      children: 4
+      self: false
+      children: 3
     data:
       page:
         path: "/machines/"
@@ -322,7 +338,6 @@ contents:
           slug: "banc-de-travail"
           file: "pages/machines/banc-de-travail/_index.html"
           external: false
-
 
 
 

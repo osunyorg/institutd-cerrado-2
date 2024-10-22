@@ -62,15 +62,23 @@ contents_reading_time:
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Découvrez les créations
-    slug: "decouvrez-les-creations"
-    position: 1
-    rank: 2
+    slug: >-
+      decouvrez-les-creations
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -95,6 +103,8 @@ contents:
     template: definitions
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -113,10 +123,12 @@ contents:
   - kind: block
     template: pages
     title: >-
-      Cordéis
+      
+    slug: >-
+      
     ranks:
-      self: 3
-      children: 4
+      self: false
+      children: 3
     data:
       page:
         path: "/cordeis/"
@@ -137,7 +149,6 @@ contents:
           slug: "cordeis-2"
           file: "pages/cordeis/cordeis-2/_index.html"
           external: false
-
 
 
 

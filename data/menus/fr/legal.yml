@@ -5,20 +5,25 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+  file: content/fr/organizations/_index.html
 - title: Plan du site
   target: "/plan-du-site/"
   kind: page
   children: []
+  file: content/fr/pages/plan-du-site/_index.html
 - title: Mentions légales
   target: "/mentions-legales-1/"
   kind: page
   children: []
+  file: content/fr/pages/mentions-legales-1/_index.html
 - title: Politique de confidentialité
   target: "/politique-de-confidentialite-1/"
   kind: page
   children: []
+  file: content/fr/pages/politique-de-confidentialite-1/_index.html
 - title: Accessibilité
   target: "/accessibilite/"
   kind: page
   children: []
+  file: content/fr/pages/accessibilite/_index.html
 

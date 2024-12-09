@@ -7,13 +7,24 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      youtube: >-
-        https://www.youtube.com/@Maquinasdodiaadia-ro8us/videos
-      instagram: >-
-        https://www.instagram.com/maquinas_do_dia_a_dia/
-      facebook: >-
-        facebook.com/profile.php?id=100091819664493
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            profile.php?id=100091819664493
+          value: >-
+            https://www.facebook.com/profile.php?id=100091819664493
+        instagram:
+          label: >-
+            maquinas_do_dia_a_dia
+          value: >-
+            https://instagram.com/maquinas_do_dia_a_dia
+        youtube:
+          label: >-
+            Maquinasdodiaadia-ro8usvideos
+          value: >-
+            https://www.youtube.com/@Maquinasdodiaadia-ro8usvideos
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/

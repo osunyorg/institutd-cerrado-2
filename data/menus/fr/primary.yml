@@ -5,35 +5,42 @@ items:
   target: "/machines/"
   kind: page
   children: []
+  path: "/pages/machines"
   file: content/fr/pages/machines/_index.html
 - title: Données scientifiques
   target: "/donnees-scientifiques/"
   kind: page
   children: []
+  path: "/pages/donnees-scientifiques"
   file: content/fr/pages/donnees-scientifiques/_index.html
 - title: Paysages
   target: "/paysages/"
   kind: page
   children: []
+  path: "/pages/paysages"
   file: content/fr/pages/paysages/_index.html
 - title: Témoignages
   target: "/temoignages/"
   kind: page
   children: []
+  path: "/pages/temoignages"
   file: content/fr/pages/temoignages/_index.html
 - title: Cartes postales  sonores
   target: "/cartes-postales-sonores/"
   kind: page
   children: []
+  path: "/pages/cartes-postales-sonores"
   file: content/fr/pages/cartes-postales-sonores/_index.html
 - title: Cordéis
   target: "/cordeis/"
   kind: page
   children: []
+  path: "/pages/cordeis"
   file: content/fr/pages/cordeis/_index.html
 - title: En savoir plus
   target: "/en-savoir-plus/"
   kind: page
   children: []
+  path: "/pages/en-savoir-plus"
   file: content/fr/pages/en-savoir-plus/_index.html
 

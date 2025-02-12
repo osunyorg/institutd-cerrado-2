@@ -2,6 +2,11 @@
 
 baseURL: https://cerrado-2.institutd.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: d2a3eca2-26e8-4683-b032-4445ace1fc1c
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false

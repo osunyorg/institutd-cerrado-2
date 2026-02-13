@@ -2,59 +2,75 @@
 title: Menu principal
 items:
 - title: Actualités
+  slug: actualites
   target: "/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Machines
+  slug: machines
   target: "/machines/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/machines"
   file: content/fr/pages/machines/_index.html
 - title: Données scientifiques
+  slug: donnees-scientifiques
   target: "/donnees-scientifiques/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/donnees-scientifiques"
   file: content/fr/pages/donnees-scientifiques/_index.html
 - title: Paysages
+  slug: paysages
   target: "/paysages/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/paysages"
   file: content/fr/pages/paysages/_index.html
 - title: Témoignages
+  slug: temoignages
   target: "/temoignages/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/temoignages"
   file: content/fr/pages/temoignages/_index.html
 - title: Cartes postales  sonores
+  slug: cartes-postales-sonores
   target: "/cartes-postales-sonores/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/cartes-postales-sonores"
   file: content/fr/pages/cartes-postales-sonores/_index.html
 - title: Cordéis
+  slug: cordeis
   target: "/cordeis/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/cordeis"
   file: content/fr/pages/cordeis/_index.html
 - title: En savoir plus
+  slug: en-savoir-plus
   target: "/en-savoir-plus/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/en-savoir-plus"
   file: content/fr/pages/en-savoir-plus/_index.html
 

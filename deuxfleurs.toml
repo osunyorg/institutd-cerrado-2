@@ -14,3 +14,35 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/cordel/cordeis-1/index.html"
+to = "/cordeis/cordeis-1/"
+
+[[redirects]]
+from = "/accueil/index.html"
+to = "/machines/"
+
+[[redirects]]
+from = "/aide/index.html"
+to = "/en-savoir-plus/"
+
+[[redirects]]
+from = "/cordel/index.html"
+to = "/cordeis/"
+
+[[redirects]]
+from = "/macaco/index.html"
+to = "/machines/macaco/"
+
+[[redirects]]
+from = "/cordel/post-titre-cordeis/index.html"
+to = "/cordeis/cordeis-1/"
+
+[[redirects]]
+from = "/rape-a-manioc/index.html"
+to = "/machines/rape-a-manioc/"
+
+[[redirects]]
+from = "/2024-04-16-maquinas-do-dia-a-dia/index.html"
+to = "/actualites/2024-04-16-maquinas-do-dia-a-dia/"
+
